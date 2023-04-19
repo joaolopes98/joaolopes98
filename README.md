@@ -1,5 +1,7 @@
 # 💫 About Me:
-Programador com experiencia em Java utilizando as ferramentas Hibernate, Maven, Junit, entre outras.<br><br>Formado em 2020 no Curso de Tecnologia em Análise e Desenvolvimento de Software no Instituto Federal de São Paulo - Campos do Jordão.
+Programmer with experience in Java using the tools Hibernate, Maven, Junit, among others.
+
+Graduated in 2020 from the Technology Course in Software Analysis and Development at the Instituto Federal de São Paulo - Campos do Jordão.
 
 
 ## 🌐 Socials:
